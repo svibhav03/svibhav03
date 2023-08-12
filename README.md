@@ -1,8 +1,5 @@
 
-<p align="center">
-  <img src="[http://some_place.com/image.png](https://c4.wallpaperflare.com/wallpaper/263/786/331/hightech-earth-network-world-wallpaper-preview.jpg)" />
-</p>
-
+![enter image description here](https://c4.wallpaperflare.com/wallpaper/263/786/331/hightech-earth-network-world-wallpaper-preview.jpg)
 
 <h1  align="center">Hi 👋, I'm Vibhav</h1>
 
