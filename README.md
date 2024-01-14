@@ -16,7 +16,7 @@
 
   
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/180ENSVNQI8E7-Wt8lKtFFWGfK8iEGPBF/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1FzxCsfUkzQaZujv8GTjQcc7ST3V8wHEG/view?usp=sharing)
 
   
 
