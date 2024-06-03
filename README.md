@@ -8,7 +8,7 @@
 
   
 
-- 🌱 I’m currently learning **Machine Learning and App development**
+- 🌱 I’m passionate about **Database, Web Backend, Machine Learning**
 
   
 
@@ -16,7 +16,7 @@
 
   
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1FzxCsfUkzQaZujv8GTjQcc7ST3V8wHEG/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GBilW9IJhqWdg9kcIxrm9NumLjdD8Bmb/view?usp=drive_link)
 
   
 
