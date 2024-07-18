@@ -8,7 +8,7 @@
 
   
 
-- 🌱 I’m passionate about **Database, Web Backend, Machine Learning**
+- 🌱 I’m passionate about **Database, Web-Dev, Machine Learning**
 
   
 
@@ -16,7 +16,7 @@
 
   
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GBilW9IJhqWdg9kcIxrm9NumLjdD8Bmb/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/10GBZz4h0W9XT9kj7YUh9KFuUCVGXH9od/view?usp=sharing)
 
   
 
